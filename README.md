@@ -22,4 +22,4 @@ current_classes:
   ]
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKelton&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKelton&hide=html,css&layout=compact)
