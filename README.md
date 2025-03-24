@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**AndrewKelton/AndrewKelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Andrew Kelton
+located_in: Orlando, FL
+education:
+  [
+    "Junior pursuing Bachelor's of Science in Computer Science @ the University of Central Florida",
+    "Florida Southwestern State College"
+  ]
 
-Here are some ideas to get you started:
+fields_of_interests:
+  [
+    "Systems Programming",
+    "Computer Vision",
+    "NLP",
+    "Machine Learning/AI"
+  ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+current_classes:
+  [
+    "Engineering Applications of Intelligent Systems",
+    "Concepts of Parallel and Distributed Processing"
+  ]
