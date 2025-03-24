@@ -20,3 +20,4 @@ current_classes:
     "Engineering Applications of Intelligent Systems",
     "Concepts of Parallel and Distributed Processing"
   ]
+```
