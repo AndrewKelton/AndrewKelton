@@ -22,4 +22,4 @@ current_classes:
   ]
 ```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKelton"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKelton)](https://github.com/AndrewKelton/github-readme-stats)
