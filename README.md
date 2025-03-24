@@ -26,7 +26,7 @@ current_classes:
 
 <div align="center">
   <a href="https://github.com/AndrewKelton/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=AndrewKelton&theme=radical&card_width=320" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=AndrewKelton&theme=tokyonight&card_width=320" />
   </a>
 
   <a href="https://github.com/AndrewKelton/github-readme-stats">
