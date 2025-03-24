@@ -6,7 +6,6 @@ education:
     "Junior pursuing Bachelor's of Science in Computer Science @ the University of Central Florida",
     "Florida Southwestern State College"
   ]
-
 fields_of_interests:
   [
     "Systems Programming",
