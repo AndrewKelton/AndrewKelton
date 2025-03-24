@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ```yaml
 name: Andrew Kelton
 located_in: Orlando, FL
