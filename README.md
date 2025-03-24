@@ -1,4 +1,4 @@
-```yaml
+```yml
 name: Andrew Kelton
 located_in: Orlando, FL
 education:
