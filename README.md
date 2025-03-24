@@ -23,5 +23,5 @@ current_classes:
 ```-->
 
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewKelton)](https://github.com/AndrewKelton/github-readme-stats&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKelton&hide=html,css,makefile,powershell&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKelton&hide=html,css,makefile,powershell&layout=compact&theme=radical&card_width=500)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/AndrewKelton/AndrewKelton/output/github-contribution-grid-snake-dark.svg)
