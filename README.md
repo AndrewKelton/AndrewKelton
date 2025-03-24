@@ -31,7 +31,7 @@ current_classes:
   </a>
 
   <a href="https://github.com/AndrewKelton/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKelton&hide=html,css,makefile,powershell&layout=compact&langs_count=8&card_width=320&theme=radical" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKelton&hide=html,css,makefile,powershell&layout=compact&langs_count=8&card_width=320&theme=radical&size_weight=0.5&count_weight=0.5" />
   </a>
 
   <br>
