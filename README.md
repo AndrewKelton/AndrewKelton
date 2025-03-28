@@ -19,7 +19,7 @@ current_classes:
     "Engineering Applications of Intelligent Systems",
     "Concepts of Parallel and Distributed Processing"
   ]
-```
+``
 
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewKelton)](https://github.com/AndrewKelton/github-readme-stats&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKelton&hide=html,css,makefile,powershell&layout=compact&theme=radical) -->
