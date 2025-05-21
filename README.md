@@ -26,11 +26,11 @@ current_classes:
 
 <div align="center">
   <a href="https://github.com/AndrewKelton/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=AndrewKelton&theme=dark&card_width=320" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=AndrewKelton&theme=bear&card_width=320" />
   </a>
 
   <a href="https://github.com/AndrewKelton/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKelton&hide=html,css,makefile,powershell,tex&layout=compact&langs_count=8&card_width=320&theme=dark&size_weight=0.5&count_weight=0.5" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKelton&hide=html,css,makefile,powershell,tex&layout=compact&langs_count=8&card_width=320&theme=bear&size_weight=0.5&count_weight=0.5" />
   </a>
 
   <br>
